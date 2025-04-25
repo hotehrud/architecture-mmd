@@ -20,5 +20,6 @@ graph LR
     %% __END useUnhandledError
 
     ApiService -.-> unhandledrejection
-    QueryClientProvider -.-> unhandledrejection
+    ReactQuery --> onError
+
 ```
