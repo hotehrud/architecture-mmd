@@ -5,13 +5,15 @@
 graph LR
     %% __START
     Build --> Publish
-    Publish --> |upload s3| /
+    Swap --> |upload s3| /
+    Swap -.-> |get selected version| /versions/*
     Publish --> |upload s3| /versions/*
     Publish --> |upload s3| version.json
 
     subgraph "Deploy"
         Build
         Publish
+        Swap
         /
         /versions/*
         version.json
