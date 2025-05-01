@@ -10,7 +10,7 @@ graph LR
     handleError -.-> ErrorService.isCustomError
     handleError -.-> ErrorService.isIgnorableError
     handleError -.-> ErrorService.isExpectedError
-    handleError --> |처리되지 못한 에러 위임 throw handleError -> unhandledrejection| unhandledrejection
+    handleError --> |처리되지 못한 에러 처리| onUnhandledError
     handleError --> |에러 처리 위임| Notification
     enableErrorBoundary --> |에러 처리 위임| ErrorBoundary
 
