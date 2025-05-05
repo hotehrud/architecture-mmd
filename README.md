@@ -85,6 +85,10 @@
 ### [UsePageScrollRestoration](https://github.com/hotehrud/architecture-mmd/blob/main/md/usePageScrollRestoration/usePageScrollRestoration.md)
 - URL 기반의 스크롤 좌표 저장 훅
 
+### [SSR -> CSR 마이그레이션](https://github.com/hotehrud/architecture-mmd/blob/main/md/migration_ec2_s3/migration_ec2_s3.md)
+- Nuxt(EC2) 에서 React(S3) 스택 변경 과정에서의 점진적 배포 방식
+- [참고 링크](https://www.notion.so/mygumi/Vue-React-1bb3391c4d7580669c8df460c0adf04d)
+
 ## AWS 서비스 활용
 ### [API Gateway + CloudFront](https://github.com/hotehrud/architecture-mmd/blob/main/md/api-gateway/api-gateway.md)
 - CloudFront 와 API Gateway 를 통한 캐시 활용
