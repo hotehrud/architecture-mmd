@@ -111,6 +111,10 @@
 - EC2 -> S3 프록시 구조에서 발생한 504 에러
 - [참고 링크](https://www.notion.so/mygumi/1bc3391c4d7580c3a054cd5811c36641)
 
+### [Socket Model](https://github.com/hotehrud/architecture-mmd/blob/main/md/socket_login/socket_login.md)
+- 소켓 서버의 역할 범위에 따른 요청-응답 모델 지원 필요성
+- [참고 링크](https://www.notion.so/mygumi/Socket-1be3391c4d758090a4bedd3ef25d8e4a)
+
 ## 빌드/배포(CI/CD)
 ### [CI/CD ElasticBeanstalk](https://github.com/hotehrud/architecture-mmd/blob/main/md/cicd-eb/cicd-eb.md)
 - EB 로 구성된 서비스의 CI/CD
