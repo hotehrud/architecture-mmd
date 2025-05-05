@@ -89,6 +89,11 @@
 - Nuxt(EC2) 에서 React(S3) 스택 변경 과정에서의 점진적 배포 방식
 - [참고 링크](https://www.notion.so/mygumi/Vue-React-1bb3391c4d7580669c8df460c0adf04d)
 
+## Backend
+### [Redis + Kpi](https://github.com/hotehrud/architecture-mmd/blob/main/md/redis_kpi/redis_kpi.md)
+- Redis 를 활용한 KPI 시스템
+- [참고 링크](https://www.notion.so/mygumi/KPI-1be3391c4d758073b833c439545f1425)
+
 ## AWS 서비스 활용
 ### [API Gateway + CloudFront](https://github.com/hotehrud/architecture-mmd/blob/main/md/api-gateway/api-gateway.md)
 - CloudFront 와 API Gateway 를 통한 캐시 활용
