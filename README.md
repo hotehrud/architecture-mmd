@@ -102,6 +102,10 @@
 - CloudWatch 로그를 통한 데이터 활용
 - [참고 링크](https://www.notion.so/mygumi/CloudWatch-1e63391c4d75807d818cf04533688caf)
 
+### [Cognito + S3](https://github.com/hotehrud/architecture-mmd/blob/main/md/cognito_user_private/cognito_user_private.md)
+- Cognito 를 활용한 사용자별 S3 접근
+- [참고 링크](https://www.notion.so/mygumi/Cognito-1e33391c4d758021a21ed908192888bd)
+
 ## 기술 이슈
 ### [React Migration_504](https://github.com/hotehrud/architecture-mmd/blob/main/md/react_migration_504/react_migration_504.md)
 - EC2 -> S3 프록시 구조에서 발생한 504 에러
