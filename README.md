@@ -69,6 +69,9 @@
 - Web-App 간의 메시지 통신 시스템 흐름
 - [참고 링크](https://www.notion.so/mygumi/Web-App-1bb3391c4d758063a718c84ff75ca108)
 
+### [Message_List_Web_App](https://github.com/hotehrud/architecture-mmd/blob/main/md/message_web_app_list/message_web_app_list.md)
+- Web-App 간의 메시지 통신 방식 종류
+
 ### [Message_Bridge_Request](https://github.com/hotehrud/architecture-mmd/blob/main/md/message_bridge_request/message_bridge_request.md)
 - Web-App 간의 메시지 통신 시스템의 메시지 요청을 기준으로 Bridge 흐름
 
