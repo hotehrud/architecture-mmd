@@ -89,6 +89,10 @@
 - Nuxt(EC2) 에서 React(S3) 스택 변경 과정에서의 점진적 배포 방식
 - [참고 링크](https://www.notion.so/mygumi/Vue-React-1bb3391c4d7580669c8df460c0adf04d)
 
+### [BFF](https://github.com/hotehrud/architecture-mmd/blob/main/md/bff/bff.md)
+- BFF 구조
+- [참고 링크](https://www.notion.so/mygumi/BFF-Backend-For-Frontend-1be3391c4d75808e9c6fcb9901be554d)
+
 ## Backend
 ### [Redis + Kpi](https://github.com/hotehrud/architecture-mmd/blob/main/md/redis_kpi/redis_kpi.md)
 - Redis 를 활용한 KPI 시스템
