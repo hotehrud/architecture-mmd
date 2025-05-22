@@ -15,6 +15,7 @@
 10. **[Message_Web_App](#message-web-app)**
 11. **[Notification](#notification)**
 12. **[UsePageScrollRestoration](#usePageScrollRestoration)**
+13. **[Localization](#localization)**
 ----
 ### AWS 서비스 활용
 1. **[RDS Snapshot](#rds-snapshot)**
@@ -87,6 +88,10 @@
 
 ### [UsePageScrollRestoration](https://github.com/hotehrud/architecture-mmd/blob/main/md/usePageScrollRestoration/usePageScrollRestoration.md)
 - URL 기반의 스크롤 좌표 저장 훅
+
+### [Localization](https://github.com/hotehrud/architecture-mmd/blob/main/md/localization/localization.md)
+- 다국어 관리
+- [참고 링크](https://www.notion.so/mygumi/1fa3391c4d7580ecaf33cecc685e9b0e)
 
 ### [SSR -> CSR 마이그레이션](https://github.com/hotehrud/architecture-mmd/blob/main/md/migration_ec2_s3/migration_ec2_s3.md)
 - Nuxt(EC2) 에서 React(S3) 스택 변경 과정에서의 점진적 배포 방식
