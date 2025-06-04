@@ -21,6 +21,7 @@
 1. **[RDS Snapshot](#rds-snapshot)**
 2. **[API Gateway + CloudFront](#api-gateway--cloudfront)**
 3. **[CloudWatch + S3](#cloudwatch-s3)** 
+4. **[Cognito + CustomMessage](#cognito--custommessage)**
 ----
 ### 기술 이슈
 1. **[React Migration_504](#react-migration-504)**
@@ -122,6 +123,10 @@
 ### [Cognito + S3](https://github.com/hotehrud/architecture-mmd/blob/main/md/cognito_user_private/cognito_user_private.md)
 - Cognito 를 활용한 사용자별 S3 접근
 - [참고 링크](https://www.notion.so/mygumi/Cognito-1e33391c4d758021a21ed908192888bd)
+
+### [Cognito + CustomMessage](https://github.com/hotehrud/architecture-mmd/blob/main/md/cognito_customMessage/cognito_customMessage.md)
+- Cognito 를 활용한 커스텀 이메일 전송
+- [참고 링크](https://www.notion.so/mygumi/Cognito-CustomMessage-2073391c4d758054a846e9802835af43)
 
 ## 기술 이슈
 ### [React Migration_504](https://github.com/hotehrud/architecture-mmd/blob/main/md/react_migration_504/react_migration_504.md)
