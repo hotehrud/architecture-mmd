@@ -16,6 +16,7 @@
 11. **[Notification](#notification)**
 12. **[UsePageScrollRestoration](#usePageScrollRestoration)**
 13. **[Localization](#localization)**
+14. **[Api_RefreshToken](#api_refreshToken)**
 ----
 ### AWS 서비스 활용
 1. **[RDS Snapshot](#rds_snapshot)**
@@ -93,6 +94,11 @@
 ### [Localization](https://github.com/hotehrud/architecture-mmd/blob/main/md/localization/localization.md)
 - 다국어 관리
 - [참고 링크](https://www.notion.so/mygumi/1fa3391c4d7580ecaf33cecc685e9b0e)
+  Api_RefreshToken
+
+### [Api_RefreshToken](https://github.com/hotehrud/architecture-mmd/blob/main/md/api_refresh_token/api_refresh_token.md)
+- 토큰 만료시 재발급 및 API 재요청 
+- [참고 링크](https://www.notion.so/mygumi/API-20b3391c4d75800a8880eb56392597ed?pvs=12)
 
 ### [SSR -> CSR 마이그레이션](https://github.com/hotehrud/architecture-mmd/blob/main/md/migration_ec2_s3/migration_ec2_s3.md)
 - Nuxt(EC2) 에서 React(S3) 스택 변경 과정에서의 점진적 배포 방식
