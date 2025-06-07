@@ -17,6 +17,8 @@
 12. **[UsePageScrollRestoration](#usePageScrollRestoration)**
 13. **[Localization](#localization)**
 14. **[Api_RefreshToken](#api_refreshToken)**
+15. **[BFF](#bff)**
+16. **[SSR -> CSR Migration](#ssr----csr-migration)**
 ----
 ### AWS 서비스 활용
 1. **[RDS Snapshot](#rds_snapshot)**
@@ -100,7 +102,7 @@
 - 토큰 만료시 재발급 및 API 재요청 
 - [참고 링크](https://www.notion.so/mygumi/API-20b3391c4d75800a8880eb56392597ed?pvs=12)
 
-### [SSR -> CSR 마이그레이션](https://github.com/hotehrud/architecture-mmd/blob/main/md/migration_ec2_s3/migration_ec2_s3.md)
+### [SSR -> CSR Migration](https://github.com/hotehrud/architecture-mmd/blob/main/md/migration_ec2_s3/migration_ec2_s3.md)
 - Nuxt(EC2) 에서 React(S3) 스택 변경 과정에서의 점진적 배포 방식
 - [참고 링크](https://www.notion.so/mygumi/Vue-React-1bb3391c4d7580669c8df460c0adf04d)
 
