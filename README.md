@@ -16,6 +16,7 @@
 11. **[Notification](#notification)**
 12. **[UsePageScrollRestoration](#usePageScrollRestoration)**
 13. **[Localization](#localization)**
+14. **[LocalizationMiddleware](#localizationMiddleware)**
 14. **[Api_RefreshToken](#api_refreshToken)**
 15. **[BFF](#bff)**
 16. **[SSR -> CSR Migration](#ssr----csr-migration)**
@@ -94,9 +95,12 @@
 - URL 기반의 스크롤 좌표 저장 훅
 
 ### [Localization](https://github.com/hotehrud/architecture-mmd/blob/main/md/localization/localization.md)
-- 다국어 관리
+- 다국어 관리(CSR)
 - [참고 링크](https://www.notion.so/mygumi/1fa3391c4d7580ecaf33cecc685e9b0e)
-  Api_RefreshToken
+
+### [LocalizationMiddleware](https://github.com/hotehrud/architecture-mmd/blob/main/md/localization/localization_middleware.md)
+- 다국어 관리(SSR)
+- [참고 링크](https://www.notion.so/mygumi/SSR-22f3391c4d7580618f7ef729e71f1a31)
 
 ### [Api_RefreshToken](https://github.com/hotehrud/architecture-mmd/blob/main/md/api_refresh_token/api_refresh_token.md)
 - 토큰 만료시 재발급 및 API 재요청 
