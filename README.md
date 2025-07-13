@@ -98,7 +98,7 @@
 - 다국어 관리(CSR)
 - [참고 링크](https://www.notion.so/mygumi/1fa3391c4d7580ecaf33cecc685e9b0e)
 
-### [LocalizationMiddleware](https://github.com/hotehrud/architecture-mmd/blob/main/md/localization/localization_middleware.md)
+### [LocalizationMiddleware](https://github.com/hotehrud/architecture-mmd/blob/main/md/localization_middleware/localization_middleware.md)
 - 다국어 관리(SSR)
 - [참고 링크](https://www.notion.so/mygumi/SSR-22f3391c4d7580618f7ef729e71f1a31)
 
