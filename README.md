@@ -48,6 +48,13 @@
 ----
 ### 기타 등등
 1. **[Toy Project](#toy-project)**
+2. **[게임 메시지 통신](#게임-메시지-통신)**
+3. **[게임 웹뷰](#게임-웹뷰)**
+4. **[게임 최대](#게임-최대)**
+5. **[게임 최대 큐](#게임-최대-큐)**
+5. **[게임 프리로드](#게임-프리로드)**
+5. **[세션_토큰_asis](#세션-토큰-asis)**
+5. **[세션_토큰_tobe](#세션-토큰-tobe)**
 ---
 
 ## Frontend
@@ -203,3 +210,20 @@
 ### [Toy Project](https://github.com/hotehrud/architecture-mmd/blob/main/md/toy/toy.md)
 - 토이 프로젝트 구조
 - [참고 링크](https://www.notion.so/mygumi/1be3391c4d75804cbe8ff08977038802)
+### [게임 메시지 통신](https://github.com/hotehrud/architecture-mmd/blob/main/md/architecture_gameMessage/architecture_gameMessage.md)
+- 게임 메시지 통신 구조
+### [게임 웹뷰](https://github.com/hotehrud/architecture-mmd/blob/main/md/architecture_gameWebview/architecture_gameWebview.md)
+- 게임 웹뷰 구조
+### [게임 최대](https://github.com/hotehrud/architecture-mmd/blob/main/md/architecture_maxGame/architecture_maxGame.md)
+- 최대 게임 개수
+### [게임 최대 큐](https://github.com/hotehrud/architecture-mmd/blob/main/md/architecture_maxGameQueue/architecture_maxGameQueue.md)
+- 최대 게임 개수 (큐)
+### [게임 프리로드](https://github.com/hotehrud/architecture-mmd/blob/main/md/architecture_preloadGame/architecture_preloadGame.md)
+- 게임 프리로드
+### [세션 토큰 asis](https://github.com/hotehrud/architecture-mmd/blob/main/md/architecture_session_token_asis/architecture_session_token_asis.md)
+- 세션 토큰 연동 방식
+- [참고 링크](https://www.notion.so/mygumi/Session-bound-Token-2103391c4d7580a9a312ee90d8edc8cf)
+### [세션 토큰 tobe](https://github.com/hotehrud/architecture-mmd/blob/main/md/architecture_session_token_tobe/architecture_session_token_tobe.md)
+- 세션 토큰 연동 방식 개선
+- [참고 링크](https://www.notion.so/mygumi/Session-bound-Token-2103391c4d7580a9a312ee90d8edc8cf)
+ 
